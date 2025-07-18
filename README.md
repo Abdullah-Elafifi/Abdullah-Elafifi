@@ -1,8 +1,7 @@
 # About Me!
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=6DE2FF&multiline=true&width=750&height=100&lines=Hey!+I'm+Abdullah+Elafifi;Biomedical+ML+Researcher+;+AI+in+Drug+Discovery+%26+Precision+Oncology)
 <br>
-Junior CS undergraduate is interested in biomedical machine learning research, strongly focusing on drug discovery (De Novo and beyond) and cutting-edge advancements in Multi-Omics, including genomics and transcriptomics, especially Cancer Genomics (precision oncology) and bioinformatics.
-
+Senior CS undergraduate is interested in AI research, strongly focusing on drug discovery and cutting-edge advancements in Multi-Omics, including genomics and transcriptomics; especially Cancer Genomics (precision oncology) and bioinformatics. Driven to enhance healthcare through AI-driven solutions alongside AI applications in business intelligence, customer behaviour modelling, and operational optimisation. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullah.elafifi)
