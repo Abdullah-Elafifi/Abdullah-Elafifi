@@ -1,5 +1,5 @@
 # About Afifi:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=6DE2FF&multiline=true&width=750&height=100&lines=Hey!+I'm+Abdullah+Elafifi;Biomedical+ML4444+Researcher+;+AI+in+Drug+Discovery+%26+Precision+Oncology)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=6DE2FF&multiline=true&width=750&height=100&lines=Hey!+I'm+Abdullah+Elafifi;AI+ML+Researcher+;+AI+in+Drug+Discovery+%26+Precision+Oncology)
 <br>
 Senior CS undergraduate is interested in AI research, strongly focusing on drug discovery and cutting-edge advancements in Multi-Omics, including genomics and transcriptomics; especially Cancer Genomics (precision oncology) and bioinformatics. Driven to enhance healthcare through AI-driven solutions alongside AI applications in business intelligence, customer behaviour modelling, and operational optimisation. 
 
