@@ -12,14 +12,11 @@ Senior CS undergraduate is interested in AI research, strongly focusing on drug 
 #  GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Elafifi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdullah-Elafifi&theme=dark&hide_border=false" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Elafifi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+![](https://github-readme-stats.vercel.app/api?username=Abdullah-Elafifi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Elafifi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Elafifi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
-
 
 ##  GitHub Trophies
 
