@@ -39,5 +39,3 @@ Particularly interested in AI applications in drug discovery and advanced applic
     <img src="https://visitcount.itsvg.in/api?id=Abdullah-Elafifi&icon=1&color=0" />
   </a>
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
