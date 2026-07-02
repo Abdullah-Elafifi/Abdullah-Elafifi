@@ -1,7 +1,7 @@
 # About Afifi:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=6DE2FF&multiline=true&width=750&height=100&lines=Hey!+I'm+Abdullah+Elafifi;AI+ML+Researcher+;+AI+in+Drug+Discovery+%26+Precision+Oncology)
 <br>
-Always exploring the frontiers of artificial intelligence, machine learning, statistical learning, and computational research & development (R&D), with strong interests in deep learning, predictive modeling, probabilistic reasoning, scalable software systems, optimization, and building data-driven systems that solve complex real-world problems across healthcare and business domains. Driven by curiosity, continuous learning, and a focus on turning algorithms into impactful, scalable solutions.
+Always exploring the frontiers of artificial intelligence, machine learning, statistical learning, and computational research & development (R&D), with strong interests in deep learning, predictive modeling, probabilistic reasoning, scalable software systems, optimization, and building data-driven systems that solve complex real-world problems across healthcare and business domains. 
 
 –> Afifi is driven by curiosity, fueled by research, and passionate about engineering intelligent systems that create lasting real-world impact!
 
