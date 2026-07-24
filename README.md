@@ -16,5 +16,5 @@ Always exploring the frontiers of artificial intelligence, machine learning, sta
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abdullah-Elafifi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Abdullah-Elafifi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah-Elafifi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
